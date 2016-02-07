@@ -1,0 +1,4 @@
+[submodule "Source/libs/libpd"]
+	path = Source/libs/libpd
+	url = https://github.com/rraallvv/libpd
+	branch = cocoa_touch
